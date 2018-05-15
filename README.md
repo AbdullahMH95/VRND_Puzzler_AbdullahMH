@@ -6,4 +6,5 @@ As a part of VR development Nano-degree in Udacity, I have create a document tha
 # Outcomes
 A VR game with no motion sickness and verified by Abdulaziz (Tester) and documented.
 
-# Story of the process
+# Sketching
+
