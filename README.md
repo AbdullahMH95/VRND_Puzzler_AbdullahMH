@@ -8,16 +8,16 @@ A VR game with no motion sickness and verified by Abdulaziz (Tester) and documen
 
 # Sketching
 
-Persona: 
+Persona.
 ![alt text](https://image.ibb.co/nqPYoy/Persona.png)
----
+...
 
-Story of the process:
+Story of the process.
 ![alt text](https://image.ibb.co/kPzNgJ/image1.jpg)
----
+...
 
-User Interface:![alt text](https://image.ibb.co/fJfjvd/IMG_8928.jpg)
----
+User Interface.![alt text](https://image.ibb.co/fJfjvd/IMG_8928.jpg)
+...
 
 # User testing outcomes and iteration
 
@@ -37,15 +37,15 @@ Abdulaziz: Yes, it is classic puzzle!
 
 ![alt text](https://image.ibb.co/n5b7WJ/Screenshot_20180515_174521_Puzzler.jpg)
 
-1- The user click on "start" /n
-2- The user will go to the puzzle room \n
-3- The user see the puzzle in front of him
-4- The user will solve the puzzle
-5- The user will go to "restart UI"
+1. The user click on "start"                  
+2. The user will go to the puzzle room 
+3. The user see the puzzle in front of him
+4. The user will solve the puzzle
+5. The user will go to "restart UI"
 
 # Tools 
 
-1- Unity 2017.0
-2- Google VR 1.6
-3- iTween 
+1. Unity 2017.0
+2. Google VR 1.6
+3. iTween 
 
