@@ -37,8 +37,8 @@ Abdulaziz: Yes, it is classic puzzle!
 
 ![alt text](https://image.ibb.co/n5b7WJ/Screenshot_20180515_174521_Puzzler.jpg)
 
-1- The user click on "start"
-2- The user will go to the puzzle room
+1- The user click on "start" /n
+2- The user will go to the puzzle room \n
 3- The user see the puzzle in front of him
 4- The user will solve the puzzle
 5- The user will go to "restart UI"
