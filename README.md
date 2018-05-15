@@ -8,3 +8,6 @@ A VR game with no motion sickness and verified by Abdulaziz (Tester) and documen
 
 # Sketching
 
+Persona: 
+![alt text](https://image.ibb.co/nqPYoy/Persona.png)
+
