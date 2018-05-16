@@ -35,7 +35,10 @@ Abdulaziz: Yes, it is classic puzzle!
 
 # How to play
 
+
 ![alt text](https://image.ibb.co/n5b7WJ/Screenshot_20180515_174521_Puzzler.jpg)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://files.fm/f/73u8yqav)
+
 
 1. The user click on "start"                  
 2. The user will go to the puzzle room 
