@@ -1,7 +1,7 @@
 # VRND_Puzzler_AbdullahMH
 
 # Introduction
-As a part of VR development Nano-degree in Udacity, I have create a document that describe puzzler project and this document contains five sections: outcomes, story of the process, user testing outcomes and iteration, breakdown of final piece and conclusion. 
+As a part of VR development Nano-degree in Udacity, I have create a document that describe puzzler project and this document contains five sections: outcomes, story of the process, user testing outcomes and iteration, sketching and conclusion. I think the future will be in the virual reality so I most start now learn unity and vr development. First I buy Google cardboard and now I have laptop that is VR ready (MSI) and very soon I will buy HTC Vive!.
 
 # Outcomes
 A VR game with no motion sickness and verified by Abdulaziz (Tester) and documented.
@@ -20,6 +20,7 @@ User Interface.![alt text](https://image.ibb.co/fJfjvd/IMG_8928.jpg)
 ...
 
 # User testing outcomes and iteration
+I have test the project step by step with my friend Abdulaziz which he is a software developer but no experience with the VR, so he is good choice to test. 
 
 About Scene ?
 Abdulaziz: It is good but the quality is low.
@@ -51,6 +52,11 @@ Abdulaziz: Yes, it is classic puzzle!
 1. Unity 2017.0
 2. Google VR 1.6
 3. iTween 
+
+# Conclusion
+Now I can say I can build a vr game with no motion sickness. It took me about 2 weeks because the difference between videos and current Google vr sdk and I had faced many issues like audio listener ( should contains pointer physical raycaster) that was the main issue. 
+Also with the event system its not work properly with GVR 1.7 (1.6 is good for Android).
+
 
 # Download the project
 https://files.fm/f/7djcpw66
