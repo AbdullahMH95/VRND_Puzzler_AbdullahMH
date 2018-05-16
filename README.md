@@ -22,17 +22,22 @@ User Interface.![alt text](https://image.ibb.co/fJfjvd/IMG_8928.jpg)
 # User testing outcomes and iteration
 I have test the project step by step with my friend Abdulaziz which he is a software developer but no experience with the VR, so he is good choice to test. 
 
-About Scene ?
+
+About the UI ?
 Abdulaziz: It is good but the quality is low.
+Me: I make the text "overflow".
 
 About Environment?
 Abdulaziz: I feel I am so small or the things are big!
+Me: change the scale to be more fit.
 
 Any ideas or feedback?
 Abdulaziz: This is good start for you! I think you need bigger environment and active. !
+Me: add sound and plane with red black plane.
 
 Is the goal clear? 
 Abdulaziz: Yes, it is classic puzzle!
+
 
 # How to play
 
