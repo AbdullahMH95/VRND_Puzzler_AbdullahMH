@@ -3,6 +3,15 @@
 # Introduction
 As a part of VR development Nano-degree in Udacity, I have create a document that describe puzzler project and this document contains five sections: outcomes, story of the process, user testing outcomes and iteration, sketching and conclusion. I think the future will be in the virual reality so I most start now learn unity and vr development. First I buy Google cardboard and now I have laptop that is VR ready (MSI) and very soon I will buy HTC Vive!.
 
+Why did you build this project?
+This project is so important for the costumers who will use VR. It test how the people see VR and if it is okay for them they will start playing VR games!. We need in the beginning simple game that show how VR works. 
+
+How long did it take to build?
+This project should not take more than 3 weeks, I did it in 2 weeks!.
+
+What is unique about your game?
+The puzzle because it comes randomly each time.
+
 # Outcomes
 A VR game with no motion sickness and verified by Abdulaziz (Tester) and documented.
 
